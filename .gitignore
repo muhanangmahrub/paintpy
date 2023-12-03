@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE specific files
+.idea/
+.vscode/
+*.pyc
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Cache and logs
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variable files
+.env
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
